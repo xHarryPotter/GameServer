@@ -5,7 +5,7 @@
 	  <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 	  <TargetFramework>netcoreapp3.1</TargetFramework>
 	  <PlatformTarget>x64</PlatformTarget>
-	  <OutputPath>C:\Users\Momo\Desktop\GameServer\server-files\dotnet\resources\sensitivity</OutputPath>
+	  <OutputPath>C:\Users\xxx\Desktop\GameServer\server-files\dotnet\resources\gameserver</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
